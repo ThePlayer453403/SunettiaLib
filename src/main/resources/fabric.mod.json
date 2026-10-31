@@ -11,7 +11,7 @@
 		"sources": "https://github.com/ThePlayer453403/SunettiaLib"
 	},
 	"license": "MIT",
-	"icon": "assets/modid/icon.png",
+	"icon": "assets/sunsettia/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
