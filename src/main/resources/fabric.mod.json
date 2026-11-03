@@ -22,9 +22,9 @@
 		]
 	},
 	"mixins": [
-		"modid.mixins.json",
+		"sunsettia.mixins.json",
 		{
-			"config": "modid.client.mixins.json",
+			"config": "sunsettia.client.mixins.json",
 			"environment": "client"
 		}
 	],
